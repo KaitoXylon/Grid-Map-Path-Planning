@@ -1,0 +1,7 @@
+Algorithm,Map,Avg Runtime (ms),Avg Path Length (cells),Success Rate (%)
+Dijkstra,Map 1 (Example),0.40,51.00,100.00
+A* (Manhattan),Map 1 (Example),0.20,50.00,100.00
+Dijkstra,Map 2 (Example),0.30,91.00,100.00
+A* (Manhattan),Map 2 (Example),0.20,90.00,100.00
+Dijkstra,Map 3 (Example),0.30,47.00,100.00
+A* (Manhattan),Map 3 (Example),0.20,46.00,100.00
